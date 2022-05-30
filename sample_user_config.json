@@ -5,6 +5,7 @@
         "sn": "1790PDN027499",
         "mac1": "00:11:32:0F:5A:2F",
         "mac1": "00:11:32:AA:F7:04",
+        "netif_num": "2",
         "DiskIdxMap": "00",
         "SataPortMap": "6",
         "SasIdxMap": "0"
